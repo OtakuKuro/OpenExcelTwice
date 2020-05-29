@@ -1,0 +1,2 @@
+# OpenExcelTwice
+通过批处理修改注册表解决Excel需要点击两次才能打开的问题
